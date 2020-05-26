@@ -1,19 +1,6 @@
-# 八宝的猫粮有着落了
+### 八宝的猫粮有着落了 
 
-### 计算机基础
-
-* 数据结构与算法(如字符串、数组、链表、树、图、查找、排序、归并、动态规划等)
-* 操作系统(包括操作系统原理、Linux命令行以及更高阶的系统编程)
-* 数学基础(微积分、线性代数、概率论、离散数学，高阶一点还有数值计算、优化等)
-* 数据库(主要是关系型数据库比如MySQL、SQLServer、Oracle及其原理)
-* 计算机网络(OSI七层协议、TCP/UDP、路由选择、各种应用层协议等)
-* 计算机组成原理(有些学校也会开汇编语言)
-* 编译原理
-* 软件工程(各种开发模型、UML建模、敏捷开发)
-* 设计模式
-
-
-### 基础知识相关资料
+### 1. 基础知识相关资料
 
 #### books
 * [图解 HTTP](https://pan.baidu.com/s/1QXkHzcbMg4gCkfTqC-s8TQ) 提取码: kr1x
@@ -35,19 +22,23 @@
 * [算法+计算机基础分类 - 知乎汇总](https://zhuanlan.zhihu.com/p/93398256?utm_source=wechat_session&utm_medium=social&utm_oi=794482984039383040)
 * [计算机组成原理 - 知乎大纲](https://zhuanlan.zhihu.com/p/60958907)
 
-### iOS相关资料
-* [objective-c 编程之道 ](https://pan.baidu.com/s/1KOS290QFzjiq2tKVYA7h2A)提取码:ntpv
+### 2. iOS相关资料 
+* [iOS修仙传送门](https://github.com/useree/five-vegetable-chicken/blob/master/iOS.md)
+* [Objective-C 编程之道](https://pan.baidu.com/s/1KOS290QFzjiq2tKVYA7h2A)提取码:ntpv
 * [iOS Core Animation Advanced Techniques中文版](https://www.bookstack.cn/read/iOS-Core-Animation-Advanced-Techniques/README.md)
 * [iOS高级动画文档](https://zsisme.gitbooks.io/ios-/content/index.html)
+
+##### iOS面试
 * [iOS面试准备之思维导图](https://www.jianshu.com/p/a2c85b9f6a25)
 * [我是如何拿到阿里、滴滴、美团等六家 offer 的？ － 小专栏](https://github.com/useree/files/blob/master/2018%20iOS%20%E7%A4%BE%E6%8B%9B%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%EF%BC%9A%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%8B%BF%E5%88%B0%E9%98%BF%E9%87%8C%E3%80%81%E6%BB%B4%E6%BB%B4%E3%80%81%E7%BE%8E%E5%9B%A2%E7%AD%89%E5%85%AD%E5%AE%B6%20offer%20%E7%9A%84%EF%BC%9F%20%EF%BC%8D%20%E5%B0%8F%E4%B8%93%E6%A0%8F.pdf)
 * [优化 App 启动 － 小专栏](https://github.com/useree/files/blob/master/%E4%BC%98%E5%8C%96%20App%20%E5%90%AF%E5%8A%A8%20%EF%BC%8D%20%E5%B0%8F%E4%B8%93%E6%A0%8F.pdf)
 * [MRPEAK 面试题列表](https://github.com/useree/files/blob/master/MRPEAK%20%E9%9D%A2%E8%AF%95%E9%A2%98%E5%88%97%E8%A1%A8.md)
 * [抖音--iOS面试题总结.md](https://github.com/useree/files/blob/master/%E6%8A%96%E9%9F%B3--iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-### JAVA相关资料
+### 3. JAVA相关资料
+* [JAVA修仙传送门](https://github.com/useree/five-vegetable-chicken/blob/master/Java.md)
 
-
+##### JAVA面试
 
 ---
 #### 有关LLVM的文章
