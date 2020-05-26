@@ -20,7 +20,7 @@
 * [计算机网络自顶向下](https://pan.baidu.com/s/1kAxPovxinzCImcSlTBRT7w) 提取码:0wnw
 * [剑指 offer第二版](https://pan.baidu.com/s/1EwuwNe-NayP3RR47yAZXnw) 提取码：3c1g
 * [大话设计模式](https://pan.baidu.com/s/1rEJafp742wgHOhi7FFQNbw) 提取码: yaed
-* [程序员的自我修养] (https://pan.baidu.com/s/1_jg3d88FhjEyy1mg_qKmvg) 提取码:ducj
+* [程序员的自我修养](https://pan.baidu.com/s/1_jg3d88FhjEyy1mg_qKmvg) 提取码:ducj
 * [编译原理课件](https://pan.baidu.com/s/1ikaJ_XJ72fK_333lvLrMnQ) 提取码：k643
 * [ 深度工作](https://github.com/useree/files/blob/master/%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C.pdf)
 
@@ -36,7 +36,7 @@
 * [计算机组成原理 - 知乎大纲](https://zhuanlan.zhihu.com/p/60958907)
 
 ### iOS相关资料
-* [objective-c 编程之道 ] (https://pan.baidu.com/s/1KOS290QFzjiq2tKVYA7h2A)提取码:ntpv
+* [objective-c 编程之道 ](https://pan.baidu.com/s/1KOS290QFzjiq2tKVYA7h2A)提取码:ntpv
 * [iOS Core Animation Advanced Techniques中文版](https://www.bookstack.cn/read/iOS-Core-Animation-Advanced-Techniques/README.md)
 * [iOS高级动画文档](https://zsisme.gitbooks.io/ios-/content/index.html)
 * [iOS面试准备之思维导图](https://www.jianshu.com/p/a2c85b9f6a25)
